@@ -1,1 +1,1 @@
-Voici un second test pour l'affiche des messages de la team envoyé à l'application
+emzime: je vous présente le nouveau bot permettant d'envoyer des message directement sur l'application directement depuis un channel discord 🎊
